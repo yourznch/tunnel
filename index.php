@@ -57,6 +57,7 @@ if (isset($_GET['products'])) {
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
 <link rel="icon" type="image/x-icon" href="https://i.imgur.com/oX2tvdy.png"/>
 <link rel="amphtml" href="http://pencaripetir.xyz/tunnel.html">
+<meta name="google-site-verification" content="iarPRCHfrV63ce01k2-TYb9Hm6gDGEZaS7lmQpy3AUY" />
 <link rel="canonical" href="<?php echo $urlPath ?>"/>
 <meta property="og:site_name" content="Link Slot Gacor"/>
 <meta property="og:title" content="<?php echo $BRANDS ?> » Link Situs Judi Slot Online Ter-gacor Gampang Menang Maxwin 2024"/>
